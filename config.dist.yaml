@@ -1,0 +1,7 @@
+connections:
+  mysql:
+    host: 'localhost'
+    login: 'root'
+    password: 'root'
+    database: 'mtm'
+    port: 3306

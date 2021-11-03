@@ -1,4 +1,4 @@
-module gitlab.com/Dmitry.Sakovich/tgbot
+module github.com/Dmitry-44/telegramBot
 
 go 1.17
 
